@@ -1,0 +1,38 @@
+.head {
+  background-color: #81BEF7;
+  display: flex;
+  align-items: center;
+}
+
+.letras {
+  color: white;
+  margin: 10px;
+
+}
+
+.flex-container {
+  text-align: left;
+
+}
+
+.para {
+  margin-left: 20px;
+  display: flex;
+}
+
+.ali {
+  text-align: left;
+  margin-inline-start: 20px;
+  margin-inline-end: 20px;
+}
+
+.comment {
+  background-color: #FF8C00;
+  color: white;
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+ h5 {
+   margin: 5px;
+ }
